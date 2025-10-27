@@ -1,0 +1,8 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb://mongo:27017/template-company
+  application:
+    name: template-company-backend
+server:
+  port: 8080
